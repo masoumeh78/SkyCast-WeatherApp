@@ -2,6 +2,13 @@
 
 A professional weather app built with React, Context API, and OpenWeatherMap. Search cities worldwide, view detailed metrics, and customize your experience.
 
+
+🔗 **Live Demo:** https://isobar-omega.vercel.app/
+
+ScreenShot:
+<img width="1364" height="823" alt="sSky-cast-2026-10-02-18_38_08" src="https://github.com/user-attachments/assets/0bbbfc70-8fb8-454f-ae8d-937e3559572b" />
+
+
 ## Features
 
 - **Global city search** with real-time weather data
