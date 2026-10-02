@@ -73,3 +73,10 @@ src/
 - React Router 7
 - Vite 8
 - OpenWeatherMap API
+
+
+👤 Contact & Connect
+* Name: Masoume
+* Role: Frontend Web Developer
+* GitHub: @masoumeh78
+* LinkedIn: https://www.linkedin.com/in/masoume-masoumi/
